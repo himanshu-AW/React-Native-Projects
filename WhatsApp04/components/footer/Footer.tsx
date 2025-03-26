@@ -6,8 +6,9 @@ import {
   View,
 } from 'react-native';
 import React from 'react';
-import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
-import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
+
+import MaterialIcons from'react-native-vector-icons/MaterialIcons';
+import MaterialCommunityIcons from'react-native-vector-icons/MaterialCommunityIcons';
 
 const Footer = () => {
   return (
